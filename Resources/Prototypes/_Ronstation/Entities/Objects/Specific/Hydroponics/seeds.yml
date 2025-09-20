@@ -1,5 +1,5 @@
 - type: entity
-  parent: SeedBase
+  parent: [SeedBase, BaseHighlyIllegalContraband]
   name: packet of kronkus vine seeds
   description: "A pack of highly illegal kronkus seeds. Possession of these seeds carries the death penalty in 7 sectors."
   id: KronkusSeeds
