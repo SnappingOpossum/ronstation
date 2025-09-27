@@ -15,3 +15,9 @@ reagent-desc-spessacillin = A naturally sourced poison treatment discovered in a
 
 reagent-name-arcticine = arcticine
 reagent-desc-arcticine = A compound that slows the vibration of molecules directly, or in simpler terms, lowers a body's temperature. Treats burns while inflicting frostbite directly. Works regardless of the patient being alive or dead.
+
+reagent-name-traumoxadone = traumoxadone
+reagent-desc-traumoxadone = A cryogenics chemical. Used to treat severe trauma to tissues via patching them with tiny particles within the liquid. Works regardless of the patient being alive or dead.
+
+reagent-name-stelloxadone = stelloxadone
+reagent-desc-stelloxadone = A cryogenics chemical. Used to aggressively dissolve toxins from the body. Works regardless of the patient being alive or dead.
